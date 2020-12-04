@@ -1,0 +1,13 @@
+{
+  "pages":[
+    "pages/clock/clock"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#6e6e6e",
+    "navigationBarTitleText": "Clock",
+    "navigationBarTextStyle": "white"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}
